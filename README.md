@@ -27,6 +27,7 @@ I have finished the layout for the "About Us" page, and we are almost ready for 
 Please send that my way when you get the chance, super excited to launch this site!
 
 Thank you,
+
 Caleb Kelly
 
 
