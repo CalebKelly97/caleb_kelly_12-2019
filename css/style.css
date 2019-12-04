@@ -1,0 +1,59 @@
+.card h2 {
+    color: #717171;
+}
+
+.row {
+    margin: 0px;
+}
+
+.puzzle {
+    cursor: pointer;
+    color: #ff0000 !important;
+}
+
+.ck-gray {
+    background-color: #cacaca;
+}
+
+.ck-jumbo-white {
+    background-color: white;
+}
+
+.ck-text-white {
+    color: white;
+}
+
+.ck-footer {
+    background-color: #000000;
+    color: #ffffff;    
+    padding: 15px;
+}
+
+.ck-footer p {
+    margin: 0%;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.ck-padding {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.ck-padding-2 {
+    padding: 15px 0;
+}
+
+.ck-margin {
+    margin-bottom: 30px;
+}
+
+.ck-margin-2 {
+    margin: 15px 0;
+}
+
+.card {
+    margin-bottom: 20px;
+}
