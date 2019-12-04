@@ -35,4 +35,6 @@ Web Developer
 
 Any details you'd like to mention about your code test.
 
+I had a really enjoyable time working through the code test for this benchmark. It had been a while since i had worked in plain JS so it was fun to poke around in it.
+
 ---
