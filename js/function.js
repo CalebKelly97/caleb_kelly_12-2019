@@ -17,7 +17,9 @@ function uniqueNames() {
     } else {
 
     for (var name of list1.names) {
-        names.push(name);
+        if(names.indexOf(name) === -1) {
+            names.push(name);
+        }
     }
 
     for (var name of list2.names) {
