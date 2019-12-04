@@ -28,7 +28,6 @@ Please send that my way when you get the chance, super excited to launch this si
 
 Thank you,
 Caleb Kelly
-Web Developer
 
 
 ### Code Test

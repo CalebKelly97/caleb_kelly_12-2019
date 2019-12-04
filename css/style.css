@@ -2,6 +2,10 @@
     color: #717171;
 }
 
+h1 {
+    padding-left: 15px;
+}
+
 .row {
     margin: 0px;
 }
